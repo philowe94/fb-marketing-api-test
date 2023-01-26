@@ -1,0 +1,19 @@
+{
+  "name": "adssample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "facebook.js",
+  "type":"module",
+  "scripts": {
+    "start": "node facebook.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-nodejs-business-sdk": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
